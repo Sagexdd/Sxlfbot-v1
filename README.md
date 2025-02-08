@@ -1,4 +1,4 @@
-# Sxelfbot-v1
+# Sxlfbot-v1
 Sxelfbot-v1 is a Discord selfbot designed for personal use, providing various automation and customization features.
 
 # Features
@@ -8,7 +8,7 @@ and many more.
 
 # Installation
 1. Clone the repository:
-git clone https://github.com/ItzYourHacker/Sxelfbot-v1.git
+git clone https://github.com/Sagexdd/Sxlfbot-v1
 
 2. Install dependencies:
 pip install -r requirements.txt
