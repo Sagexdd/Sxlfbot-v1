@@ -30,7 +30,7 @@ Discord.py Version: {discord.__version__}
     async def ping(self, ctx: commands.Context):
       okk = await ctx.reply("Pinging ...") 
       ping = int(self.bot.latency * 1000)
-      return await okk.edit(content=f"🏓 Pong: **{ping}ms**")
+      return await okk.edit(content=f"[🍹] sᴛᴀʀᴢ ᴏɢ ραρα ιѕ нєʀє\n[💀] αвє αв тєʀα куα нσgα\n[⚡] кιѕкι ᴄнυ∂αι кαʀиι нαι\n\n➜ `{mp} ms`")
 
     @commands.command(aliases=["ri"], description="Shows information about the Role")
     async def roleinfo(self, ctx, role: discord.Role):
